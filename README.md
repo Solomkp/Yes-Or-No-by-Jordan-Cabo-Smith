@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎵 Yes or No - Music Promo Page
 
 This is a responsive, single-page promotional website for the song **"Yes or No"** by **Jordan Cabo Smith**. The page is designed to showcase the music, offer streaming and download links, and collect fan emails for updates.
@@ -50,3 +51,6 @@ This project is for educational and promotional use only.
 No commercial use of the artist’s content unless permitted.
 
 
+=======
+# Yes-Or-No-by-Jordan-Cabo-Smith
+>>>>>>> b6509d1d7d7a3a8620d102bee0806fb4274ca7b0
