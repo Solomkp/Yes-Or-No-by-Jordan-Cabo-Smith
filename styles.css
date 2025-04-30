@@ -96,6 +96,13 @@ body {
     height: 30px;
 }
 
+
+.logo2 {
+    height: 45px;
+    width:150px;
+    margin-left: -6px;
+}
+
 .play-button-link {
     background-color: white;
     color: rgb(0, 0, 0);
